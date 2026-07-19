@@ -12,11 +12,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/arjunsunar748/ai-interview?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/arjunsunar748/ai-interview/edit/main/README.md?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/forks/arjunsunar748/ai-interview?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/forks/arjunsunar748/ai-interview/edit/main/README.md?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/license/arjunsunar748/ai-interview?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/arjunsunar748/ai-interview/edit/main/README.md?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react"/>
 
