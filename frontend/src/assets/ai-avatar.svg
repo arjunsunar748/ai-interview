@@ -1,0 +1,53 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="100" fill="url(#grad1)"/>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#e0f2fe;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Robot head -->
+  <rect x="60" y="60" width="80" height="70" rx="12" fill="url(#grad2)"/>
+  
+  <!-- Eyes -->
+  <circle cx="80" cy="85" r="8" fill="#0ea5e9"/>
+  <circle cx="120" cy="85" r="8" fill="#0ea5e9"/>
+  
+  <!-- Eye glow -->
+  <circle cx="80" cy="85" r="4" fill="#ffffff"/>
+  <circle cx="120" cy="85" r="4" fill="#ffffff"/>
+  
+  <!-- Mouth -->
+  <path d="M 75 105 Q 100 115 125 105" stroke="#0ea5e9" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Antenna -->
+  <line x1="100" y1="60" x2="100" y2="45" stroke="url(#grad2)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="42" r="5" fill="#0ea5e9"/>
+  
+  <!-- Sound waves -->
+  <path d="M 145 80 Q 155 85 145 90" stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 155 75 Q 170 85 155 95" stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <path d="M 55 80 Q 45 85 55 90" stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 45 75 Q 30 85 45 95" stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- Neck -->
+  <rect x="90" y="130" width="20" height="10" rx="2" fill="url(#grad2)"/>
+  
+  <!-- Body hint -->
+  <rect x="70" y="140" width="60" height="30" rx="8" fill="url(#grad2)" opacity="0.8"/>
+  
+  <!-- Circuit patterns -->
+  <circle cx="75" cy="115" r="2" fill="#0ea5e9" opacity="0.5"/>
+  <circle cx="125" cy="115" r="2" fill="#0ea5e9" opacity="0.5"/>
+  <line x1="75" y1="115" x2="85" y2="115" stroke="#0ea5e9" stroke-width="1" opacity="0.5"/>
+  <line x1="115" y1="115" x2="125" y2="115" stroke="#0ea5e9" stroke-width="1" opacity="0.5"/>
+</svg>
