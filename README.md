@@ -11,9 +11,9 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge&logo=github&color=yellow"/>
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge&logo=github&color=blue"/>
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge&color=green"/>
+<img src="https://img.shields.io/github/stars/arjunsunar748/ai-interview?style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://img.shields.io/github/forks/arjunsunar748/ai-interview?style=for-the-badge&logo=github&color=blue"/>
+<img src="https://img.shields.io/github/license/arjunsunar748/ai-interview?style=for-the-badge&color=green"/>
 <img src="https://img.shields.io/badge/AI-Ollama-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
