@@ -13,11 +13,9 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Ollama-Offline_AI-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-15-336791?style=for-the-badge&logo=postgresql"/>
 
 <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/Ollama-Offline_AI-red?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
 
