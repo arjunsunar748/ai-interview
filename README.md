@@ -2,7 +2,7 @@
 
 # 🎯 AI-Powered Mock Interview & Career Preparation System
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🤖+AI+Powered+Mock+Interview+Platform;🎥+Live+Video+Interview+%26+AI+Proctoring;🛡️+Real-Time+Cheating+Detection;🧠+Offline+LLM+Powered+(Ollama);🚀+Production+Ready+Final+Year+Project" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Powered+Mock+Interview+Platform;Live+Video+Interview+and+AI+Proctoring;Real-Time+Cheating+Detection;Offline+LLM+Powered+with+Ollama;Production+Ready+Final+Year+Project" alt="Typing SVG" />
 
 <br>
 
@@ -11,15 +11,22 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/arjunsunar748/ai-interview?style=for-the-badge&logo=github&color=yellow"/>
-<img src="https://img.shields.io/github/forks/arjunsunar748/ai-interview?style=for-the-badge&logo=github&color=blue"/>
-<img src="https://img.shields.io/github/license/arjunsunar748/ai-interview?style=for-the-badge&color=green"/>
-<img src="https://img.shields.io/badge/AI-Ollama-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-</p>
 
+<img src="https://img.shields.io/github/stars/arjunsunar748/AI-Powered-Mock-Interview-Career-Preparation-System?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/forks/arjunsunar748/AI-Powered-Mock-Interview-Career-Preparation-System?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/license/arjunsunar748/AI-Powered-Mock-Interview-Career-Preparation-System?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-Offline_AI-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql"/>
+
+</p>
 </div>
 
 ---
@@ -260,6 +267,6 @@ Face Missing             Multiple Faces
 
 # ⭐ If you like this project, give it a Star ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFB7&center=true&width=800&lines=Made+with+❤️+using+React+%2B+FastAPI+%2B+AI;Offline+LLM+Powered;Happy+Coding+🚀"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=00FFB7&center=true&vCenter=true&width=700&lines=Made+with+React+%2B+FastAPI+%2B+AI;Offline+LLM+Powered;Happy+Coding!" alt="Footer Typing"/>
 
 </div>
